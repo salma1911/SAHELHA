@@ -422,7 +422,7 @@
     }
     .pic{
 
-      border-radius: 15px 15px 0px 0px ;
+      
       width: 100%;
     }
     .ptrack
@@ -445,7 +445,7 @@
     height: 450px;
     float: left;
     margin: 10px;
-    border-radius: 15px;
+   
 
     }
 
@@ -460,7 +460,7 @@
     height: 450px;
     float: left;
     margin: 10px;
-    border-radius: 15px;
+    
     }
     .ML
     {
@@ -470,7 +470,7 @@
     height: 450px;
     float: left;
     margin: 10px;
-    border-radius: 15px;
+    
     }
     .data
     {
@@ -480,7 +480,7 @@
     height: 450px;
     float: left;
     margin: 10px;
-    border-radius: 15px;
+    
     }
 
 
